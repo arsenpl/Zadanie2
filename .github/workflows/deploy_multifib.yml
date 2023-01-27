@@ -24,6 +24,8 @@ jobs:
             context: nginx
             image: arsenpl/zadanie2:fib-nginx  
     
+
+    
     steps:
 
     - name: Checkout source code
